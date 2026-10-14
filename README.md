@@ -6,7 +6,8 @@
 
 ### Direct Documents:
 - **[Curriculum Vitae (2-Page ATS PDF)](https://raw.githubusercontent.com/yunaamelia/cv/main/CV_Muhammad_Nurhidayat_Gani.pdf)**
-- **[Full Compliance Dossier (15-Page PDF: CV, KTP, KK, SIM BII Umum, SIO, Certificates)](https://raw.githubusercontent.com/yunaamelia/cv/main/STANDAR_BERKAS_PENDUKUNG_LENGKAP_15_HALAMAN.pdf)**
+- **[Complete Compliance Dossier (19-Page PDF: CV, KTP, KK, SIM BII, SIO, LPTM & Disnaker Certs, Work Experience, Education, Health)](https://raw.githubusercontent.com/yunaamelia/cv/main/STANDAR_BERKAS_PENDUKUNG_LENGKAP_19_HALAMAN.pdf)**
+- **[Standard Compliance Dossier (15-Page PDF)](https://raw.githubusercontent.com/yunaamelia/cv/main/STANDAR_BERKAS_PENDUKUNG_LENGKAP_15_HALAMAN.pdf)**
 
 ---
 **Contact:**
